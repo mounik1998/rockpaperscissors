@@ -1,0 +1,14 @@
+.main-con {
+  padding: 20px;
+  background-color: white;
+  height: 460px;
+  width: 670px;
+  justify-content: center;
+  padding-top: 45px;
+  padding-left: 45px;
+}
+
+.image-styling {
+  height: 370px;
+  width: 570px;
+}

@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-background {
+  background-color: #223a5f;
+  padding: 50px;
+  background-size: cover;
+  padding-right: 130px;
+  padding-left: 130px;
+}
+
+.styled-button {
+  height: 40px;
+  width: 120px;
+  background-color: white;
+  border: none;
+  border-radius: 7px;
+}
